@@ -1,3 +1,7 @@
+**/*.class
+**/out/
+**/build/
+
 HELP.md
 .gradle
 /build/
